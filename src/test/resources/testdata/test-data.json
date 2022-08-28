@@ -1,0 +1,15 @@
+{
+  "pageUrl": {
+    "url":"http://automationpractice.com/index.php"
+  },
+
+
+  "loginPageData": {
+    "username":"hey@abc.com",
+    "password": "Testing@1234"
+  },
+
+  "registrationPageData": {
+
+  }
+}
